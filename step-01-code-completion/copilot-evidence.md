@@ -5,12 +5,16 @@ Replace all placeholders.
 
 ## Prompt 1
 
-`<paste your prompt>`
+`implement normalize_username`
 
 ## Why you accepted/rejected the suggestion
 
-`<short note>`
+`Done! I've implemented the normalize_username function. It handles all the requirements:
+
+Trims and lowercases the input
+Replaces spaces with underscores
+Removes invalid characters (keeping only a-z, 0-9, _)
+Collapses multiple underscores into single ones
+Strips leading/trailing underscores`
 
 ## Final check
-
-`<what changed after first suggestion>`
